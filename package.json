@@ -1,0 +1,27 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "geoip-lite": "^1.4.10",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "nanoid": "^5.0.9",
+    "node": "^23.5.0",
+    "nodemon": "^3.1.9",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "rate-limiter-flexible": "^5.0.4",
+    "redis": "^4.7.0",
+    "user-agent": "^1.0.4"
+  }
+}
